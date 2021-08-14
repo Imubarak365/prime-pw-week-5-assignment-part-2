@@ -1,0 +1,12 @@
+header {
+background-color: navy;
+text-align: center;
+}
+main {
+    background-color:   lightgray;
+    padding: 1em;
+}
+body{
+    background-image: url(record.png);
+    margin: 0;
+}
